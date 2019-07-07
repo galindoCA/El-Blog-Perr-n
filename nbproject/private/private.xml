@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/BLOG/app/config.inc.php</file>
+            <file>file:/C:/xampp/htdocs/BLOG/vistas/nueva-clave.php</file>
+            <file>file:/C:/xampp/htdocs/BLOG/app/RepositorioUsuario.inc.php</file>
+            <file>file:/C:/xampp/htdocs/BLOG/vistas/recuperar-clave.php</file>
+            <file>file:/C:/xampp/htdocs/BLOG/index.php</file>
+            <file>file:/C:/xampp/htdocs/BLOG/scripts/generar-url-secreta.php</file>
+            <file>file:/C:/xampp/htdocs/BLOG/app/RepositorioRecuperacionClave.inc.php</file>
+            <file>file:/C:/xampp/htdocs/BLOG/app/RecuperacionClave.inc.php</file>
+        </group>
+    </open-files>
+</project-private>
